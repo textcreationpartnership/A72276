@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right institutio[n] of baptisme set forth by the reuere[n]d father in Christ, Herman Archebysshop of Coleyne, wherunto is also annexed a godlye treatyse of matrimonye, compyled by the famous clerke and faythfull euangelyst Wolfgangus Musculus, no lesse fruteful the[n] necessary for all godly mynisters of Christs church, translated by the vnproffitable seruaunt of Chryst Richard Ryce.</title>
+            <author>Wied, Hermann von.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1548</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72276</idno>
+            <idno type="STC">STC 13210</idno>
+            <idno type="STC">ESTC S125240</idno>
+            <idno type="EEBO-CITATION">99898489</idno>
+            <idno type="PROQUEST">99898489</idno>
+            <idno type="VID">173417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2042:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right institutio[n] of baptisme set forth by the reuere[n]d father in Christ, Herman Archebysshop of Coleyne, wherunto is also annexed a godlye treatyse of matrimonye, compyled by the famous clerke and faythfull euangelyst Wolfgangus Musculus, no lesse fruteful the[n] necessary for all godly mynisters of Christs church, translated by the vnproffitable seruaunt of Chryst Richard Ryce.</title>
+                  <author>Wied, Hermann von.</author>
+                  <author>Musculus, Wolfgang, 1497-1563.</author>
+                  <author>Rice, Richard, fl. 1548-1579.</author>
+               </titleStmt>
+               <extent>[38] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>by Anthony scoloker. Dwellyng in. S. Nycholas Parryshe,</publisher>
+                  <pubPlace>Imprinted at Ippeswich :</pubPlace>
+                  <date>anno. 1548.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Divisional title page on leaf b5r: A right godlye treatise of matrimonye.</note>
+                  <note>Signatures: [a]-b, c⁴(-c4, blank).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Marriage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:173417:1"/>
+                  <pb facs="tcp:173417:1"/>
+                  <p>The Right inſtitutio<g ref="char:cmbAbbrStroke">̄</g> of baptiſme / ſet forth by the Reuere<g ref="char:cmbAbbrStroke">̄</g>d father in Chriſt / <abbr>Herman</abbr> Archebyſſhop of Coleyne / Wherunto is alſo annexed a godlye treatyſe of Matri<g ref="char:EOLhyphen"/>monye / compyled by the famous Clerke and faythfull Euangelyſt Wolfgangus Muſculus / no leſſe fruteful the<g ref="char:cmbAbbrStroke">̄</g> ne<g ref="char:EOLhyphen"/>ceſſary for all godly myniſters of Chriſts Church / tranſla<g ref="char:EOLhyphen"/>ted by the vnproffitable ſeruaunt of Chryſt Richard Ryce.</p>
+                  <q>
+                     <bibl>¶ Mark .x. ¶</bibl>
+                     <p>¶ Suffer the infantes to come vnto me / and forbydde them not / for vnto ſuch the Kyngdo<g ref="char:EOLhyphen"/>me of God is due.</p>
+                  </q>
+                  <p>
+                     <hi>IMPRINTED</hi> at Ippeſwich / by Anthony Scoloker. Dwellyng in. S. Nycholas Parryſhe. Anno. <hi>1548.</hi>
+                  </p>
+                  <p>¶ Cum Priuilegio ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</p>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:173417:2" rendition="simple:additions"/>
+                  <pb facs="tcp:173417:2"/>
+                  <p>
+                     <seg rend="decorInit">Y</seg>F the prophane Aucthours (good chryſie<g ref="char:cmbAbbrStroke">̄</g> Reader) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oul<g ref="char:EOLhyphen"/>de conceyue by a naturall Phantaſy / <note place="margin">Ouidius mite mor<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap>s lib, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</note> that in Iupi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers fathers daies for the Abou<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>daunce of tranſytorye thinges / a golden woorlde to be inuented / ſo plentefull / that the earth / our commone mother / gaue the<g ref="char:cmbAbbrStroke">̄</g> wyllynglye the encreaſe of her wombe / wythout mannes induſtrye or trauayle / and the multyplycation of that with foo<g ref="char:EOLhyphen"/>lyſh fayned verſes / to be imputed vnto the Tyranous and wycked God Iupy<g ref="char:EOLhyphen"/>ter / both for the comme<g ref="char:cmbAbbrStroke">̄</g>dacion of ſo inco<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ſtaunt a God / and alſo for the perpetuall memorie of theyr owne Actes and dedes.<note place="margin">j. Iohn .ij.</note> Howe moche more then (good Chriſten reader) in theſe oure dayes / maye we (yf we cloſe not oure eies in the brode ſonne ſhyne) perceiue not a fayned golde<g ref="char:cmbAbbrStroke">̄</g> woorl<g ref="char:EOLhyphen"/>de (as the inuentyng Poetes dyd) but a woorlde in dede moch more prity ous the<g ref="char:cmbAbbrStroke">̄</g> gold / <note place="margin">Ezaijxxxiij</note> pearle or pretious ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> or as mo<g ref="char:EOLhyphen"/>che as heauen incomparably paſſeth the earth / ſo doth the frute that co<g ref="char:cmbAbbrStroke">̄</g>m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ther<g ref="char:EOLhyphen"/>of / aboue meaſure excede all tr<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>s of gold / as moch as the celeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yall ſonne of God ſurmou<g ref="char:cmbAbbrStroke">̄</g>teth the Ma<g ref="char:cmbAbbrStroke">̄</g>na that faſteth from the cloudes.<note place="margin">Iohan .vj.</note> For Gods ſonne ande
+<pb facs="tcp:173417:3"/>Gods woorde is all one.<note place="margin">Iohan .j.</note> But our frute that we haue commeth from heauen and is Gods woorde.<note place="margin">Math. xij</note> Therfore in receyuyng it / thou receyueſt Gods <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ye ſonne / the true Meſſaungee that came from heaue<g ref="char:cmbAbbrStroke">̄</g>. Nowe / therfore ſeing thou haſt thys ſo e<g ref="char:EOLhyphen"/>ternall a treaſure / embrace it with reuere<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>te / for thy forefathers taſted not therof.<note place="margin">Colloſſ. iij.</note> So that nowe bleſſed are thine e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es and thyne eares yf thou haſt rece<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed this hea<g ref="char:EOLunhyphen"/>uenlie treaſure i<g ref="char:cmbAbbrStroke">̄</g> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue hert.<note place="margin">Roma. xij.</note> And that thou mayſt occupie thy ſelf and beſtowe thy ti<g ref="char:EOLhyphen"/>me to Gods glory / thou haſt here a treaſe of baptyme by that Reuerende Father the Byſſhop of Coleyne one of the Elec<g ref="char:EOLhyphen"/>tours of the ſacred Empyre co<g ref="char:cmbAbbrStroke">̄</g>pited in ſa<g ref="char:EOLhyphen"/>tin and nowe ſert fourth into Ingliſh / to thy commodytye (good chryſten reader). Not that I woulde take vppon me arro<g ref="char:EOLhyphen"/>gauntly to inſtruct my former predeceſ<g ref="char:EOLhyphen"/>ſours / <note place="margin">Math. xxv.</note> But onelye for as moch as it is a thyng ſo neceſſary for the Ignoraunt a<g ref="char:cmbAbbrStroke">̄</g>d alſo partely to fetche my talent oute of the earthe againe and to emplo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e it to the glo<g ref="char:EOLhyphen"/>ry of God and vtylytye of chryſtes poore lytle flocke.<note place="margin">Zuc. xij.</note> And i<g ref="char:cmbAbbrStroke">̄</g> as moch as the matter is ſo weyghtye / and had in daylie exerciſe. Yea the ſponſers ande ſureties beyng ſo blynd in thys ſo great a matter / Promy<g ref="char:EOLhyphen"/>ſyng
+<pb facs="tcp:173417:3"/>before an Ignoraunt guyde to anſ<g ref="char:EOLhyphen"/>were for the fayth of the Chylde / of the which for the mooſt parte they are both (the more pytye yf it pleaſed God) to ſeke and to learne in this thinge / which ought to be learned / and to be had in a parfect re<g ref="char:EOLhyphen"/>dynes.<note place="margin">Math. ix.</note> I thought it me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> (good brother mynyſter) ſomewhat to ſuccoure thyne Ignorauncye / ande eſpecyallye that the vnlearned maye haue wherwith to exer<g ref="char:EOLhyphen"/>cyſe them ſelues in the meane ſeaſon / <note place="margin">Iohan .v.</note> that in ranſackyng this ſmall pece of woorke / before hand / they maye with knowledge anſwere for theyr infauntes / whan they ſhall with the fauour of theyr Parentes be moued to ſo Chryſtyan a buſines. Vn<g ref="char:EOLhyphen"/>to thys treatyſe alſo haſte thou annexed a very Godly / <note place="margin">Epheſ. iiij.</note> commendable and compen<g ref="char:EOLhyphen"/>dyous woorke / no leſſe learned the<g ref="char:cmbAbbrStroke">̄</g> neceſ<g ref="char:EOLhyphen"/>ſary to all the faithfull miniſters of Chri<g ref="char:EOLhyphen"/>ſtes churche / elucubrate and ſet forth by the famous Clerck and faithfull euange<g ref="char:EOLhyphen"/>liſt / Vvolfga<g ref="char:cmbAbbrStroke">̄</g>gus Muſculus / And nowe alſo for thy proffit ande vtylytye (good brother in Chryſt) both drawen oute of latyn into Inglyſh / by the vnproffytable ſeruau<g ref="char:cmbAbbrStroke">̄</g>t of Ieſus Chryſt Richarde Rice.<note place="margin">Timoth. j.</note> Take the<g ref="char:cmbAbbrStroke">̄</g> both a<g ref="char:cmbAbbrStroke">̄</g>d vſe the<g ref="char:cmbAbbrStroke">̄</g> to Gods glory / to whome onely / ſee thou geue the prayſe</p>
+                  <closer>Amen.</closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:173417:4"/>
+                  <head>An exhorta<g ref="char:EOLhyphen"/>cion of the Paſtor / to them that offer the infaunt in the congrega<g ref="char:EOLhyphen"/>cyon.</head>
+                  <figure/>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> beloued in Chriſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> daily heare by the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God and learne by como<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ence as well in life as in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro<g ref="char:cmbAbbrStroke">̄</g> the fall of Adam / we a<g ref="char:EOLhyphen"/>re co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ued <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a lyke tranſgreſſyo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / ande
+<pb facs="tcp:173417:4"/>borne in ſynne / ande are gyltye of Gods wrath / and condempned for Adams for<g ref="char:EOLhyphen"/>fert / except we be deliuered by the death a<g ref="char:cmbAbbrStroke">̄</g>d merytes of the ſo<g ref="char:cmbAbbrStroke">̄</g>ne of God Ieſus Chriſt our lorde. Seyng then that thys infau<g ref="char:cmbAbbrStroke">̄</g>t / by the commone let of nature / is borne in lyke tranſgreſſyon / ther is no queſryon / but that he nedes is defyled wyth the ſa<g ref="char:EOLhyphen"/>me orygynall dyſeaſe and ſynne / and is in ſubiection to eternall death and dampna<g ref="char:EOLhyphen"/>cyon. But God the father (through hys vnſpeakeable pitie ande mercy towardes ma<g ref="char:cmbAbbrStroke">̄</g>kinde) ſent his ſonne to ſaue the worl<g ref="char:EOLhyphen"/>de. And in that wyll he haue thys infaunt alſo ſaued / which parteineth to the woorl<g ref="char:EOLunhyphen"/>de. For he toke a waye the ſynnes of all the woorlde. And hath delyuered ande ſa<g ref="char:EOLhyphen"/>ued as well the yong Babes / as vs of diſ<g ref="char:EOLhyphen"/>cretyon and yeres / from ſynne / death / the deuell and dampnatio<g ref="char:cmbAbbrStroke">̄</g>. The which wol<g ref="char:EOLhyphen"/>de the lytleones to be offred vnto hi / that he myght dyſtrybute hys bleſſynge vnto them. Therfore of your Chryſtyan loue and charytye / take this Chylde and bring hym vnto Chryſt / And offer him by your godlye Prayers / that of hym / he maye re<g ref="char:EOLhyphen"/>ceyue remyſſyon of his ſinnes / a<g ref="char:cmbAbbrStroke">̄</g>d be tra<g ref="char:cmbAbbrStroke">̄</g>ſ<g ref="char:EOLhyphen"/>lated into the Kyngdome of his grace / de<g ref="char:EOLhyphen"/>lyuered
+<pb facs="tcp:173417:5"/>from the tyranny of Sathan / a<g ref="char:cmbAbbrStroke">̄</g>d be made partaker / ande heyre of the eter<g ref="char:EOLhyphen"/>nall ſaluacyon. And be ye certeilie aſſured that the lord Ieſus Chriſt will graciouſ<g ref="char:EOLhyphen"/>ly accept this woorke / and beneuolence of your charytye towardes thys infaunt.</p>
+                  <p>And gyue eare to your Prayers / becauſe he hath ſo co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>ded in hys holye worde / ſaying / ſufferre the litle ones to come vn<g ref="char:EOLhyphen"/>to me / for vnto ſoche belo<g ref="char:cmbAbbrStroke">̄</g>geth the Kyng<g ref="char:EOLhyphen"/>dome of heauen.</p>
+                  <div type="part">
+                     <head>¶ Interrogations to the Godfathers ande Godmo<g ref="char:EOLhyphen"/>thers.</head>
+                     <p>Beleue ye theſe thynges which are ſet be<g ref="char:EOLhyphen"/>fore you by the woorde of God to be true / as concerning the corruption of oure na<g ref="char:EOLhyphen"/>ture / through orygynall ſinne. And of the regeneracion of ryſyng againe in Chriſte Ieſus our Lorde / ande of the eternall fel<g ref="char:EOLhyphen"/>lowſhip with God / which is declared vn<g ref="char:EOLhyphen"/>to vs in the ſacred baptiſme?</p>
+                     <p>
+                        <label>Anſwere.</label> ¶ we do ſurelie beleue it.</p>
+                     <p>Doo ye then requyre of a pure hert ande of a true faithe this your litle one / (by you offred ande preſented vnto Chriſt / ) to be deliuered from this corruption of natu<g ref="char:EOLhyphen"/>re
+<pb facs="tcp:173417:5"/>/ by the vertue and merite of Chriſtes Paſſyon / declared in baptime / a<g ref="char:cmbAbbrStroke">̄</g>d to be re<g ref="char:EOLhyphen"/>conſiled vnto God / ande to be regenerate into a newe and eternall lyfe?</p>
+                     <p>
+                        <label>Anſwere.</label> ¶ We do hartelie require it.</p>
+                     <p>Do ye then renounce ande forſake / both on your parte and in the infau<g ref="char:cmbAbbrStroke">̄</g>tes name / the Deuell and all his workes?</p>
+                     <p>
+                        <label>Anſwere.</label> ¶ We do forſake.</p>
+                     <p>And the woorlde / ande all his concupiſ<g ref="char:EOLhyphen"/>cence?</p>
+                     <p>
+                        <label>Anſwere.</label> ¶ We doo forſake.</p>
+                     <p>Doo ye beleue in god the father / almigh<g ref="char:EOLhyphen"/>tie maker of heauen and Earth?</p>
+                     <p>
+                        <label>Anſwere.</label> ¶ We doo beleue.</p>
+                     <p>Doo ye beleue in our lorde Ieſus Chriſt his onelie ſonne the which to redeme vs / was made man / ſuffred / and died / and ro<g ref="char:EOLhyphen"/>ſe agayne. And aſcended into heauen ande ſitteth on the right ha<g ref="char:cmbAbbrStroke">̄</g>d of the father / And there he ruleth his co<g ref="char:cmbAbbrStroke">̄</g>gregation by his al<g ref="char:EOLhyphen"/>mightie power. And ſhall come againe in the ende of the woorlde / manifeſt to all men / and there to Iudge both the quicke and the dead?</p>
+                     <pb facs="tcp:173417:6"/>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ We doo beleue.</p>
+                     <p>Of this faith / do ye co<g ref="char:cmbAbbrStroke">̄</g>fes our lord Ieſus Chriſt / to be as well the Sauiour / of this litle one / as he is our Sauiour? the whi<g ref="char:EOLhyphen"/>che by his death hath expiate and clenſed our ſynnes alſo / a<g ref="char:cmbAbbrStroke">̄</g>d hath by hys reſurrec<g ref="char:EOLhyphen"/>tion / reco<g ref="char:cmbAbbrStroke">̄</g>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ied you vnto God / and Iuſti<g ref="char:EOLhyphen"/>fyed you / a<g ref="char:cmbAbbrStroke">̄</g>d all your ſines purged thrugh his ſpirite / a<g ref="char:cmbAbbrStroke">̄</g>d that he will fully finiſh his godlie Image in you and reſtore you to a perfer life?</p>
+                     <p>
+                        <label>Anſwere.</label> ¶ We doo beleue.</p>
+                     <p>Doo ye beleue in the holighooſt. The ho<g ref="char:EOLhyphen"/>ly catholike Churche. The communion of Saintes / The forgiuenes of ſynnes / The reſurrectio<g ref="char:cmbAbbrStroke">̄</g> of the fleſh / ande the life euerlaſting?</p>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ We do beleue.</p>
+                     <p>Beleue ye by this confeſſio<g ref="char:cmbAbbrStroke">̄</g> / the holighoſt to be as well the teacher of this infaunt / as of your ſelues? a<g ref="char:cmbAbbrStroke">̄</g>d that he wilbe a com<g ref="char:EOLhyphen"/>fore to you bothe? a<g ref="char:cmbAbbrStroke">̄</g>d that ye are the true membres of Chriſte our lorde / and his co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>gregacion? and that this babe ſhalbe take<g ref="char:cmbAbbrStroke">̄</g> as a membre through Baptime / both of Chriſt a<g ref="char:cmbAbbrStroke">̄</g>d of the congregatio<g ref="char:cmbAbbrStroke">̄</g> / in the which he ſhal haue remiſſion of ſinnes / a<g ref="char:cmbAbbrStroke">̄</g>d a cer<g ref="char:EOLhyphen"/>reyne aſſured<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ope of the reſurrecty on of the eternall lyſe?</p>
+                     <pb facs="tcp:173417:6"/>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ We doo beleue.</p>
+                     <p>Win ye then receiue this infa<g ref="char:cmbAbbrStroke">̄</g>c in the fon<g ref="char:EOLhyphen"/>teyne of Baptiſme / And reke<g ref="char:cmbAbbrStroke">̄</g> him for the true ſonne or God / a brether a<g ref="char:cmbAbbrStroke">̄</g>d a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ber of Chr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> And as ſone as he co<g ref="char:cmbAbbrStroke">̄</g>meth ſo the yeres of diſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>etyon (if he chauner to be deſtitute of hye Paren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es) (or elles if they ſhalbe negligent in this behalfe) will you take charge over him that he heraſter lerne the .x. commaundem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es / the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>de or bel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fe a<g ref="char:cmbAbbrStroke">̄</g>d the Lordes Pray<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> the true meanige of the Sacramentes as well at home as at the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> at even ſtraighs from hys tender age he ſhall vnder ſtand the ſyneece me any age of thys myſtery of Baptiſme / ande alſo the benefittes geven vnto hym in Chriſt? Ande that when he is inſtruct <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in the religion or Chryſte that he ſhall confeſſe the ſame faych / manifeſtly with hys owne mouth and voice in the coſign gary on? And that he ſhall appoit hiſelf to the fellow ſhyppe and obedience bothe towarde God a<g ref="char:cmbAbbrStroke">̄</g>d the congregation?</p>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ We wyll hartelie.</p>
+                     <p>The derety bei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed ſee that ye parforme the thig that ye have promiſed here in the preſe<g ref="char:cmbAbbrStroke">̄</g>ce of God a<g ref="char:cmbAbbrStroke">̄</g>d Chriſt our ſauyour / the which is betwene vs a<g ref="char:cmbAbbrStroke">̄</g>d before the whole co<g ref="char:cmbAbbrStroke">̄</g>gregatio<g ref="char:cmbAbbrStroke">̄</g>. And that with earneſt faith
+<pb facs="tcp:173417:7"/>And every one of you both Godfathers a<g ref="char:cmbAbbrStroke">̄</g>d Godmothers a<g ref="char:cmbAbbrStroke">̄</g>d the reſidue that ſta<g ref="char:cmbAbbrStroke">̄</g>d by / confeſſe aſſuredlie / a<g ref="char:cmbAbbrStroke">̄</g>d knowledge this infa<g ref="char:cmbAbbrStroke">̄</g>t / after this baptiſme receiued exter<g ref="char:EOLhyphen"/>nally / as the ſonne of God. a<g ref="char:cmbAbbrStroke">̄</g>d accept him as the member of Chriſte / vnto whome the Aungelles ſhall miniſter / do ſeruyce and be in ſubiection. Ande doubt not but whatſoeuer eyther good or badde / you or any other do to this re<g ref="char:cmbAbbrStroke">̄</g>der and weake ba<g ref="char:EOLhyphen"/>be / ye do it vnto God and vnto Chriſt ou<g ref="char:EOLhyphen"/>relorde. Therfore let no manne thinke any labour tedious. But let euery man in tyme mete (either as he is of his kinred / either as he is bou<g ref="char:cmbAbbrStroke">̄</g>de in his vocation) ap<g ref="char:EOLhyphen"/>plie him lelfe diligentlie to bringe vp ande informe him / to the lorde / Godlie and ver<g ref="char:EOLunhyphen"/>tuouſlie / that in proceſſe of time / he maie kepe all things aright / that our Sauiour Chriſte hath co<g ref="char:cmbAbbrStroke">̄</g>maunded vs. It is ther<g ref="char:EOLhyphen"/>fore your dutie which are geuen / as Pa<g ref="char:EOLhyphen"/>rentes / kynsfolkes / Spo<g ref="char:cmbAbbrStroke">̄</g>ſers or ſureti<g ref="char:EOLhyphen"/>es / vnto this Childe / of God / that as ſone as he groweth to any diſcretion / he ſhalbe brought vp to ſome vertuous Scoles / or into the Churche / that he maye the more fullye be taught or inſtruct / as well in the lordes prayer / the articles of the faith and the .x. Co<g ref="char:cmbAbbrStroke">̄</g>maundementes / as in the right
+<pb facs="tcp:173417:7"/>vſe of the Sacrame<g ref="char:cmbAbbrStroke">̄</g>tes. And that he ma<g ref="char:EOLhyphen"/>ye clerelie parceiue the free grace and riche benefyttes of God geue<g ref="char:cmbAbbrStroke">̄</g> vnto him / in his baptiſme. And that he maie re<g ref="char:cmbAbbrStroke">̄</g>der accou<g ref="char:cmbAbbrStroke">̄</g>te a<g ref="char:cmbAbbrStroke">̄</g>d a true rekening of his faith before the congregation. And that with his owne mouth he maie renounce the Deuell / the woorlde and the luſtes of the fleſh / before Chryſte a<g ref="char:cmbAbbrStroke">̄</g>d the congregation. And that he will endeuour him ſelfe / vnto all due obe<g ref="char:EOLhyphen"/>dience / accordinge to his Goſpell. And that he maye perſeuer ande remayne in Chriſte our lorde / vnto the ende. Ande dailie encreaſe in a newe life / as the liuelie member of Chriſte. And that in this vine (as a fecundious or frutefull braunche) he maie beare the ple<g ref="char:cmbAbbrStroke">̄</g>teous frute of all ver<g ref="char:EOLunhyphen"/>tuous workes / Wnto the praiſe of God / and the edyfying of the Congregation.</p>
+                     <p>
+                        <label>¶ Parſon.</label> Name the Chylde.</p>
+                     <p>Godfathers and Godmothers ſhall anſ<g ref="char:EOLhyphen"/>were / and name him.</p>
+                     <p>
+                        <label>¶ Perſon.</label> I commaunde all ye euell and noyſome ſpirites in the name of our Lorde Ieſus Chriſte that ye departe from this yonge infant and ſonne of God. And ſee that ye nether hurte him / nor hinder him of his
+<pb facs="tcp:173417:8"/>and our fathers behalfe.</p>
+                     <p>
+                        <label>¶ The deacon.</label> Go beyt good lorde.</p>
+                     <p>
+                        <label>¶ Parſon.</label> The lorde be with you.</p>
+                     <p>
+                        <label>¶ Deaco<g ref="char:cmbAbbrStroke">̄</g>.</label> And with your ſpirit alſo.</p>
+                     <p>
+                        <label>¶ Parſon.</label> Let vs praye.</p>
+                     <p>O almightie a<g ref="char:cmbAbbrStroke">̄</g>d eternall God / the father of our lorde Ieſus Chriſte / I call vppo<g ref="char:cmbAbbrStroke">̄</g> the for this thine infaunt and tender ba<g ref="char:EOLhyphen"/>be / vnto whome thy co<g ref="char:cmbAbbrStroke">̄</g>gregation inſtau<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLhyphen"/>lie deſyre this ſacred ſigne of baptiſme / a<g ref="char:cmbAbbrStroke">̄</g>d in that thy pitifull and ſpirituall regene<g ref="char:EOLhyphen"/>ration. And as thou haſt ſaide. Aſke / ande ye ſhall haue ſeke / and ye ſhall find / knocke / and it ſhalbe opened vnto you. Euen ſo diſtribute vnto this litie one / thy grace ande mercy / as thy congregation prayeth for it. That he maye obteyne the redemp<g ref="char:EOLhyphen"/>cion of thy ſonne and the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of eternal and bleſſed life / which thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>egre<g ref="char:EOLhyphen"/>gation faithfully requiteth / through the miſterie of his baptiſme. Opt to him the doore of thy Kingdome / at the which thy co<g ref="char:cmbAbbrStroke">̄</g>gregatio<g ref="char:cmbAbbrStroke">̄</g> knocketh for through Chriſt our i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rde. Deacon. Sobeit good lorde.<note place="margin">Let vs praye.</note>
+                     </p>
+                     <p>O father almightie God / the whiche in times <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> / through the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> / by thy fe<g ref="char:EOLhyphen"/>arfull Iudgem<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> / deſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>oiedſeth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> wicked woorld. And for thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> mercyes ſake-preſeruedſt the familye of vertuous Noe
+<pb facs="tcp:173417:8"/>eight onelie ſoules. And alſo diddeſti the ſea ouerwneline obſtinate Pharo the kin<g ref="char:EOLunhyphen"/>ge of Egypte with his whole armie a<g ref="char:cmbAbbrStroke">̄</g>d for<g ref="char:EOLunhyphen"/>ce of warre / a<g ref="char:cmbAbbrStroke">̄</g>d ſufferedſt thine own peo<g ref="char:EOLhyphen"/>ple the Iſraelites / to paſſe through it drie ſhodde. And in theſe thigs / it was thy ple<g ref="char:EOLhyphen"/>ſure that the lauer of regeneratio<g ref="char:cmbAbbrStroke">̄</g> / that is / holie baptiſme ſhulde be prefigured a<g ref="char:cmbAbbrStroke">̄</g>d ſig<g ref="char:EOLunhyphen"/>nified. Moreouer / thou diddeſt appointe the water of Iordane to ſerue to the bap<g ref="char:EOLunhyphen"/>tiſme of Ieſus Chriſt thy ſo<g ref="char:cmbAbbrStroke">̄</g>ne. And other waters beſide / a<g ref="char:cmbAbbrStroke">̄</g>d forth to be addiet to the ſubmercion and waſſhi<g ref="char:cmbAbbrStroke">̄</g>g of the bodies of the co<g ref="char:cmbAbbrStroke">̄</g>gregatio<g ref="char:cmbAbbrStroke">̄</g>. We beſeche the of thin vn<g ref="char:EOLhyphen"/>ſpeakeable mercy to beholde gratiouſlie this infant / and giue vnto hi<g ref="char:cmbAbbrStroke">̄</g> parfet faith / and thy bleſſed holy ſpirite / that through this ſacred floude / ther maye perryſh and be ouer whelmed in him / what ſoeuer fil<g ref="char:EOLhyphen"/>thines / he receiued by the co<g ref="char:cmbAbbrStroke">̄</g>tagion a<g ref="char:cmbAbbrStroke">̄</g>d in<g ref="char:EOLhyphen"/>fectio<g ref="char:cmbAbbrStroke">̄</g> of Adam. That he (ſeparated oute of the nombre of the vngodlie) maye ſafe<g ref="char:EOLhyphen"/>lie be preſerued in the precinete of the con<g ref="char:EOLhyphen"/>gregation. And that he maye with a mery there and feruent ſpirite / ſanctifie and ac<g ref="char:EOLhyphen"/>knowledge continuallie thy holie name. And with a co<g ref="char:cmbAbbrStroke">̄</g>ſtant faith a<g ref="char:cmbAbbrStroke">̄</g>d ſure hope / be obſequious vnto thy kingdome / wherby atlength / he maye with all thy faithfull people obteyne the euerlaſtynge promis
+<pb facs="tcp:173417:9"/>of eternall life / through Chriſt our lorde, ſaie all / Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> Name the Chylde.</p>
+                     <p>Receyue the Goſpell and the power ther of. And hereafter be not a ſhamed of god / of Chriſte thy Sauiour / nor of his holy Euangelion / that the ſtrength of Chryſt erucified / maye be thy refuge / aſſured ho<g ref="char:EOLhyphen"/>pe / and porcion in all thinges. The Dea<g ref="char:EOLhyphen"/>con / Sobeit.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> The lorde be wyth you.</p>
+                     <p>Deacon / And with your ſpyrite alſo.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> The wordes of the holie Goſpell that fol<g ref="char:EOLunhyphen"/>lowe / are after the mynde of. S. Marke. Deacon / Praiſes be geuen to God.</p>
+                     <p>
+                        <label>¶ Paſtor.</label>Giue good attendau<g ref="char:cmbAbbrStroke">̄</g>ce to the ſacred Goſ<g ref="char:EOLhyphen"/>pell. Marke the .x. B. And they brought Children vnto Chriſte that he might tou<g ref="char:EOLhyphen"/>che them. But his diſciples reproued the<g ref="char:EOLhyphen"/>ſe that brought them. Neuertheles whan Ieſus ſawe it / he was diſpleaſed / and ſai<g ref="char:EOLhyphen"/>de vnto them / Suffer the Children to co<g ref="char:EOLhyphen"/>me vnto me / and forbydde them not / for vnto ſoche belongeth the Kyngdome of God. Verelye I ſaye vnto you / who ſoe<g ref="char:EOLhyphen"/>uer
+<pb facs="tcp:173417:9"/>receyueth not the Kingdome of God as a Childe / he ſhall not enter therin and he toke the<g ref="char:cmbAbbrStroke">̄</g> vp in his armes / and laide his handes on them / and bleſſed them.</p>
+                     <p>
+                        <label>¶ Deacon.</label> By the vertu of the holy Goſpell all our ſinnes mought be forgeue<g ref="char:cmbAbbrStroke">̄</g> vs. All the peo<g ref="char:EOLunhyphen"/>ple ſhall ſaye. Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> Here I ſhall de ſire you with one voice to ſaye the lordes prayer and the articles of the faith. Thys beyng done the Paſtor and the Deacon ſhall rede theſe Pſalmes followynge.</p>
+                     <p>Not vnto vs / o lorde / not vnto vs but vnto thy name give praiſe for thy lovinge mercy and faithfulnes.</p>
+                     <p>Wherfor ſhall the heathe<g ref="char:cmbAbbrStroke">̄</g> ſaye / where is nowe their God? As for our lorde he is in heauen he doth what ſoeuer it plea<g ref="char:EOLhyphen"/>ſeth hym.</p>
+                     <p>Praiſe the Lorde o ye ſerrauntes / O praiſe the name of the Lorde.</p>
+                     <p>Glorye to the Father / to the ſo<g ref="char:cmbAbbrStroke">̄</g>ne / a<g ref="char:cmbAbbrStroke">̄</g>d to the holyghooſte. et cetera.</p>
+                     <p>Bleſſed be the name of the Lorde / fro<g ref="char:cmbAbbrStroke">̄</g> this tyme forth for evermore.</p>
+                     <p>The Lordes name is worthye to be prayſed / from the ryſing vp of the ſonne / 
+<pb facs="tcp:173417:10"/>vnto the going downe of the ſame.</p>
+                     <p>The lorde is highe aboue all heathen / and his glory aboue the heauens.</p>
+                     <p>Who is lyke vnto the lorde our God? that hath his dwellinge ſo highe / which humbleth him ſelf to beholde that is in heauen and earth?</p>
+                     <p>Which taketh vp the ſymple oute of the duſt / and lifteth the poore oute of the myre.</p>
+                     <p>That he maie ſett him among the rich / euen amo<g ref="char:cmbAbbrStroke">̄</g>g the princes of hys people.</p>
+                     <p>Which maketh the barren woman to kepe houſe / and to be a Ioyfull Mother of Chylderen.</p>
+                     <p>Glorie be to the father / to the ſonne ande to the holyghooſt. etce.</p>
+                     <p>Prayſe the euerlaſting. Amen.</p>
+                     <p>
+                        <label>¶ Parſon.</label> ¶ The lorde be wyth you.</p>
+                     <p>
+                        <label>¶ Deacon.</label> ¶ And wyth your ſpyrite alſo.</p>
+                     <p>
+                        <label>¶ Parſon.</label> ¶ Let vs praye.</p>
+                     <p>O almightie and eternall God our hea<g ref="char:EOLhyphen"/>uenlie father / we yelde the euerlaſtynge tha<g ref="char:cmbAbbrStroke">̄</g>kes / that thou haſt voutchſafed to call vs to thys knowledge of thy grace ande fayth. Encreaſe (we hertelie beſeche the)
+<pb facs="tcp:173417:10"/>this faith for euer. And graunt vnto this infaunt / thy holie ſpyrite / that he (regent<g ref="char:EOLhyphen"/>rated / ) maye become the heire of eternall ſaluation / the whych thou haſt promiſed to thy holie congregatio<g ref="char:cmbAbbrStroke">̄</g> / as well yong as old of thy grace a<g ref="char:cmbAbbrStroke">̄</g>d mercy through Chriſt Ieſus our lorde.</p>
+                     <p>
+                        <label>¶ Deacon.</label> So be it / beliced Lorde.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> This Epyſtle is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e of. S. Paule.<note place="margin">Titus .ij.</note> But after that the kyndnes ande loue of God our Sauyoure to ma<g ref="char:cmbAbbrStroke">̄</g> warde appea<g ref="char:EOLhyphen"/>red / not for the dedes of righteouſnes whi<g ref="char:EOLunhyphen"/>che we wrought / but after his mercy / he ſeued vs by the fountayne of the newe birth / a<g ref="char:cmbAbbrStroke">̄</g>d renuing of the holighooſt which he ſhedde on vs aboundau<g ref="char:cmbAbbrStroke">̄</g>elie thorow Ie<g ref="char:EOLunhyphen"/>ſus Chriſte our Sauiour / that we being made righteous by his grace / ſhulde be heires of eternall life / according to hope. This is a true ſayinge.</p>
+                     <p>The holyghooſt that wrote theſe thin<g ref="char:EOLhyphen"/>ges in the Apoſtles hartes / graunte that they alſo may be printed earneſtly in our mindes and woorkes. Saie all. Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> The lord bewyth you.</p>
+                     <p>
+                        <label>¶ Deacon.</label> And wyth your ſpyrite alſo.</p>
+                     <p>Paſtor. The wordes of the holye Goſpeil that follow are after the minde of. S. Math. x. vin.
+<pb facs="tcp:173417:11"/>The lord Ieſus ſaith vnto his diſciples. Vnto me is geuen all power in heauen a<g ref="char:cmbAbbrStroke">̄</g>d earth. Go therfore into all the worlde, a<g ref="char:cmbAbbrStroke">̄</g>d preache the Goſpell to euery creature / a<g ref="char:cmbAbbrStroke">̄</g>d teache all people / baptiſinge them in the name of the father / and of the ſonne / and of the holie ghooſt / traching them to kepe all thinges that I haue co<g ref="char:cmbAbbrStroke">̄</g>mannded you. Who ſoeuer beleneth a<g ref="char:cmbAbbrStroke">̄</g>d is baptized / ſhal<g ref="char:EOLhyphen"/>be ſaued / But who ſoeuer beleueth not / ſhall be co<g ref="char:cmbAbbrStroke">̄</g>de<g ref="char:cmbAbbrStroke">̄</g>pned. And behold / I will abyde with you ſtill vnto the woorldes e<g ref="char:cmbAbbrStroke">̄</g>de.</p>
+                     <p>
+                        <label>¶ Deacon.</label> By the vertue of the holy Goſpell / all ou<g ref="char:EOLhyphen"/>re ſynnes might be for geuen vs. Saie all Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> ¶ The lord be wyth you.</p>
+                     <p>
+                        <label>¶ Deacon.</label> ¶ And wyth your ſpyryte alſo.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> Let vs praye.</p>
+                     <p>Almyghtie and mercifull God a<g ref="char:cmbAbbrStroke">̄</g>d father. Thou haſt promiſed vnto Abraham / the father of all beleuers / and in him alſo / to vs his Children / that thou wilt be a God to vs and our poſteritie. Wherfore / as thou receined ſt the infantes of the Iſrae<g ref="char:EOLhyphen"/>lytes (thy auncyent People) into grace a<g ref="char:cmbAbbrStroke">̄</g>d
+<pb facs="tcp:173417:11"/>fauour / through the promys / in theyr cir<g ref="char:EOLhyphen"/>cumciſion. And as thy ſonne our forde a<g ref="char:cmbAbbrStroke">̄</g>d Samoar Ieſus Chriſte permieted mer<g ref="char:EOLhyphen"/>cifullie / the Chylderen offred / to approch vnto hym / and bleſſed them ande teſtified that vnto ſoche doth apparteine the Kig<g ref="char:EOLhyphen"/>dome of heauen. Like wiſe we praye the inſtauntely / that thou wilt receiue our in<g ref="char:EOLhyphen"/>fantes vnto the. And regencrate them as the newe borne babes. And through the miſterie of the ſpyrytuall lauer of baptiſ<g ref="char:EOLhyphen"/>me / permyt them to enter into the fellow<g ref="char:EOLhyphen"/>ſhip of erernall life. Graunt thee fore hea<g ref="char:EOLhyphen"/>uenlye father / that we maye diligentlie of a puce harte / require ſoche aboundent ry<g ref="char:EOLhyphen"/>ches of grace / layde before vs in baptiſme for our litle ones. And that we maie kno<g ref="char:EOLhyphen"/>we and receiue with a true fayth / this vn<g ref="char:EOLhyphen"/>corruptible treaſures offred vnto vs / both in the worde and Sacrament. And that we maye gyue perpetuall prayſe / and glorifie the. Ande reken not vnto him the forfait of Adams ſinne / ſpredde and in<g ref="char:EOLhyphen"/>graft into him through his pare<g ref="char:cmbAbbrStroke">̄</g>tes. Nei<g ref="char:EOLhyphen"/>ther yet behold the life of his ſureties / theſe Godfathers and Godmothers / nether of the pureſt of all the people. But let the de<g ref="char:EOLhyphen"/>ath and meryce of thy ſonne oure Lorde Ieſus Chryſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> / take place in him. And im<g ref="char:EOLhyphen"/>pute
+<pb facs="tcp:173417:12"/>vnto hi his rightuouſnes and obe<g ref="char:EOLhyphen"/>dience. Graft him into his death ande re<g ref="char:EOLhyphen"/>ſurrection. Make him the membre of thy bodie. Ande gouuerne him / that he maye be thyne heyre and ſonne for euer. Make that we maye knowe hym / after this la<g ref="char:EOLhyphen"/>uer / for thy ſonne / and the membre of the bodie of thy Chriſte. Grau<g ref="char:cmbAbbrStroke">̄</g>t that we ma<g ref="char:EOLhyphen"/>ye vertuouſly nurture and bring him vp / in thy feare. And that we maie ſuccour hi in all thinges corporall and ſpirituall.</p>
+                     <p>That through him / thy holie name maye be prayſed / the Kyngdom of thy ſoo<g ref="char:cmbAbbrStroke">̄</g>ne di<g ref="char:EOLhyphen"/>lated and enlarged. Let thy wyll in hym be done in earth as it is in heauen. More ouer preſerue him in proſperitie. Miniſ<g ref="char:EOLhyphen"/>ter gratiouſlie vnto him the neceſſaries of his lyuynge / and kepe him from all euell / through Chriſt our lord. Saye all harte<g ref="char:EOLhyphen"/>lie. Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> ¶ Name the Chylue. .N.</p>
+                     <p>
+                        <label>¶ Parſon.</label> ¶ I baptiſe the in the name of the father / a<g ref="char:cmbAbbrStroke">̄</g>d of the ſonne / and of the holighooſt. Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> Name the Chylde .N.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> N. Take the bryght houe immaculate
+<pb facs="tcp:173417:12"/>veſture / whych thou ſhalt beare before the Iudgeme<g ref="char:cmbAbbrStroke">̄</g>tſeate of our lord Ieſus Chriſt that thou mayeſt haue life euerlaſtyng / a<g ref="char:cmbAbbrStroke">̄</g>d lyue woorlde withoutende. So be it.</p>
+                     <p>¶ Name the Childe. N.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> N. Take this burninge and vnſpotted candell / that when thou comeſt to yeres of diſcretio<g ref="char:cmbAbbrStroke">̄</g> / of a pure and vnfained faith / thou mayeſt ſhyne and burne in all godlie loue / kepyng the frutes of thy haptyme / and obſeruing the commaundementes / that when the lorde commeth to the ma<g ref="char:EOLhyphen"/>riage / thou mayſte mete him with all hys bleſſed ſpirites in his heauenlie Kingdo<g ref="char:EOLhyphen"/>me. So be it good lord..</p>
+                     <p>Almyghtie eternall God and father of our lord Ieſus Chriſte which hath rege<g ref="char:EOLhyphen"/>nerate the with water a<g ref="char:cmbAbbrStroke">̄</g>d the holighooſt / and hath remytted all thy ſynnes / conti<g ref="char:EOLhyphen"/>nue the wyth hys grace vnto eternall ly<g ref="char:EOLhyphen"/>fe. Say all Amen.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> Good Chriſtians gyue credyte vnto theſe woordes ande worke of our Lor<g ref="char:EOLhyphen"/>de Ieſus Chryſte / vppon thys Chylde. Ande doubte not / but that he wyll re<g ref="char:EOLhyphen"/>ceyue it / from thys ſacred miniſterie / and embrace hym in his mercyfull at mes.</p>
+                     <pb facs="tcp:173417:13"/>
+                     <p>And will graunt vnto hym the bleſſyng of eternall lyfe / a<g ref="char:cmbAbbrStroke">̄</g>d the perpetuall fellow<g ref="char:EOLhyphen"/>ſhip of his Kyngdome. The Lorde ande oure Sauyour Ieſus Chryſt confyrme and increaſe fayth in you fore<g ref="char:EOLhyphen"/>uer. Amen.</p>
+                     <p>The peace of God be alwayes wyth you and with the parentes of the Chylde / ande make it hys faithfull ſeruaunt. Amen.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:173417:13"/>
+                  <head>
+                     <g ref="char:leaf">❧</g> A Right Godlye treatiſe of Matrimo<g ref="char:EOLhyphen"/>nye / very mete ande neceſſary for all Godlie miniſters of Chri<g ref="char:EOLhyphen"/>ſtes Churche.</head>
+                  <p>COMP ILED by the famors Cler<g ref="char:EOLhyphen"/>ke ande faythfull Euangeliſt Wolfgan<g ref="char:EOLhyphen"/>gus Muſculus. And nowe for the veyſt<g ref="char:EOLhyphen"/>tie / proffit and furtherannce of all fayth<g ref="char:EOLhyphen"/>full Chryſtians / tranſtaied oure of ſatin into Inglyſh by the vnproffyta<g ref="char:EOLhyphen"/>ble ſeruaunt of IESVS Chryſt. Kychard Ryce.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:173417:14"/>
+                  <epigraph>
+                     <q>
+                        <bibl>¶ Hebreus .xiii. ¶</bibl>
+                        <p>Let wedlocke he had in price in all poyn<g ref="char:EOLhyphen"/>tes / and let the Chamber be vndefiled / for whorekepers a<g ref="char:cmbAbbrStroke">̄</g>d Aduouterers God wyll Iudge.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <figure/>
+                  </p>
+                  <p>
+                     <seg rend="decorInit">I</seg>N as moche as amonge all other holie ordinau<g ref="char:cmbAbbrStroke">̄</g>ces inſtytuted of God / thys bleſſed wedlocke / both as concerning the Aucthour place a<g ref="char:cmbAbbrStroke">̄</g>d co<g ref="char:cmbAbbrStroke">̄</g>tinuau<g ref="char:cmbAbbrStroke">̄</g>ce / hath receiued his praiſe in the ſacred woorde of God. Let vs (if the God of might ſhall ſo permit) ranſacke ande deuoutlie peruſe
+<pb facs="tcp:173417:14"/>what this bleſſed inſtitutio<g ref="char:cmbAbbrStroke">̄</g> is of it ſelf / a<g ref="char:cmbAbbrStroke">̄</g>d howe purelie eſtemed of God. Ande that we maye Chryſtyanly / wyth Goos feare / enter without polluted lippes / into ſoche a notable matter / firſt / we ſhall cou<g ref="char:EOLhyphen"/>ſyder what matrimonie is. Seconda<g ref="char:EOLhyphen"/>relie / of whome it is. Thyrdely / howe honeſt and commendable it is / fourthlie / howe proffytable it is. Fyfthlye howe ne<g ref="char:EOLhyphen"/>ceſſary it is. For all theſe poyntes doth the Scrypture very plainlie manifeſt a<g ref="char:cmbAbbrStroke">̄</g>d open / againſt the abuſers therof / to their foule ſhame ande riproche. The carnall eye ſpyeth not in Matrimonie / the thin<g ref="char:EOLhyphen"/>ge that is of moſt pryce and value therin / for in it / ſeeth it nothing. ſaue the onelye copulation of the fleſh / betwene the man and the woman / to content the luſt of the bodie onelie. But he that goeth ande la<g ref="char:EOLhyphen"/>boureth no farther in thys ſo holie a bu<g ref="char:EOLhyphen"/>ſynes ſhall ſpye ſo moche betwene forni<g ref="char:EOLhyphen"/>catours a<g ref="char:cmbAbbrStroke">̄</g>d adulterers. For they alſo cou<g ref="char:EOLhyphen"/>ple theyr fylthy dampned fleſh to gether. Therfore muſt it be perpended / what ſin<g ref="char:EOLhyphen"/>guler thing holie wedloke hath of it ſelfe. Wherin it differeth fro<g ref="char:cmbAbbrStroke">̄</g> fornicatio<g ref="char:cmbAbbrStroke">̄</g> a<g ref="char:cmbAbbrStroke">̄</g>d adul t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cie.<note place="margin">The di<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>nitie of ma<g ref="char:EOLunhyphen"/>trimonie.</note> Wherfore ſaie / that Matrimonie is the co<g ref="char:cmbAbbrStroke">̄</g>iunctio<g ref="char:cmbAbbrStroke">̄</g> a<g ref="char:cmbAbbrStroke">̄</g>d coupi<g ref="char:cmbAbbrStroke">̄</g>g of two parſons / that is to ſaie one ma<g ref="char:cmbAbbrStroke">̄</g> a<g ref="char:cmbAbbrStroke">̄</g>d one woma<g ref="char:cmbAbbrStroke">̄</g> / into
+<pb facs="tcp:173417:15"/>one mete and lauſulll fleſh and bodye / ac<g ref="char:EOLhyphen"/>cordinge to the ordynau<g ref="char:cmbAbbrStroke">̄</g>es and inſtitutio<g ref="char:cmbAbbrStroke">̄</g> of God / indiſſoluble / without ſeparatio<g ref="char:cmbAbbrStroke">̄</g> / faſt knyt and bou<g ref="char:cmbAbbrStroke">̄</g>de / of equall anctoritye and power / on both parties. Open this diffinityon after this ſorte. Brethere<g ref="char:cmbAbbrStroke">̄</g> the firſt poſt of this matter / we ſaid / was of the lauſull coniunction of two bodies in<g ref="char:EOLhyphen"/>to one fleſh / accord<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g to Gods inſtitutio<g ref="char:cmbAbbrStroke">̄</g> and ordenaunce. But amo<g ref="char:cmbAbbrStroke">̄</g>ge whoormo<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>gers is ther a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iunction of two fyithye ſinfull bodies yet is it neither lauful / me te nor accordyng to Gods ordenau<g ref="char:cmbAbbrStroke">̄</g>ce but the deuels / whoſe me<g ref="char:cmbAbbrStroke">̄</g>bers they make the<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>ſe des or as many as marrie withi the for broden degres / contrarye to Gods wor<g ref="char:EOLhyphen"/>de.<note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. xviii</note> Alſe we ſaide in this diffinity on that they two muſt be Ioined a<g ref="char:cmbAbbrStroke">̄</g>d knitt one to a<g ref="char:cmbAbbrStroke">̄</g> other.<note place="margin">Geneſis .ii.</note> For the whiche cauſe / both father ande mother muſt be forſaken. So faſt muſte the bonde be. Moreover the knot muſt be vnlou ſable / with out ſeparatyon. For that / that God hath coupled / ma<g ref="char:cmbAbbrStroke">̄</g> can not ſep<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e.<note place="margin">Math. xix.</note> For all mariages that are made / are not of Gods Ioyaing / but all that are right he iuſtlie ande laufullye ac<g ref="char:EOLhyphen"/>cording to Gods woorde performed / are of his Ioyuynge. Ande ſo the maye no man ſeparate / wythout he wyll deſtroye
+<pb facs="tcp:173417:15"/>GODS ordenaſice. To conclude / they muſt be of equall power and auctoritye. For the ma<g ref="char:cmbAbbrStroke">̄</g> hath no power over his eve<g ref="char:EOLhyphen"/>ne body / but the woman. Ande likewiſe the woman hath not power of her ow<g ref="char:EOLhyphen"/>ne bodye / but the man.<note place="margin">i. Gorin. vii</note> But theſe foure addityons can not ſerve / eyther for adul<g ref="char:EOLhyphen"/>terers or fornicatours For (as we ſaid) they are not laufully Ioyned after gods inſtitution.<note place="margin">Exod. xxiii.</note> Neyther maye father ande mother be forſaken for ſoche vngodlye couplyng. Neyther is the knot ſo vn<g ref="char:EOLhyphen"/>louſable / wythout ſeparatyon / but that it maye be / yea / ought to be ſeparated / by the ſwerde of correctyon. Or elles the ſwerdbearers are lyke to be ſeparated the<g ref="char:cmbAbbrStroke">̄</g> ſeives from GOD. Neyther is ther e<g ref="char:EOLhyphen"/>quall power on bothe partyes / For the wyll of GOD is / that every man maye knowe / howe to poſſeſſe his owne veſſell in ſa<g ref="char:cmbAbbrStroke">̄</g>ctiſicaty on and holynes.<note place="margin">i. Teſſ iiii.</note> But whoo<g ref="char:EOLhyphen"/>redome is not holynes / therfore there is in whooredome neyther poſſeſſyon nor equall power. AND for theſe twoo poyntes / for as moche as they maye not have Matry monye looſe at theyr owne pleaſure / ande have equall Auctorytye on a ſtrompets ſtynkynge and caranou<g ref="char:EOLhyphen"/>ſe fleſh / they abhorre pure Matrimonye / 
+<pb facs="tcp:173417:16"/>ande haſte them to whooredome. The which in womankind ſeke after nothing but a licentious rage of dampnable liber<g ref="char:EOLhyphen"/>té. In ſo moche that the ennemyes of ho<g ref="char:EOLhyphen"/>lie wedlocke / are ſo farre paſt ſhame ande honeſtye / that for thys onelye cauſe they preferre the filthy concubinatyon of Ba<g ref="char:EOLhyphen"/>als preeſies / and is accepted. rather then laufull matrimonye. For here they put a<g ref="char:EOLhyphen"/>waye an whoore / a ſtinking doungſacke / at theyr pleaſure. And in honeſt wedloc<g ref="char:EOLhyphen"/>ke / a godlye creature / is well contented / wyth a lauful neceſſary remedye or wife / and ſo to kepe her / a<g ref="char:cmbAbbrStroke">̄</g>d none other. Ther<g ref="char:EOLhyphen"/>fore (ſaith the Apoſtle) Let every manne haue bys wyfe / ande euery woman. / her huſband.<note place="margin">i. Corin. vij</note>
+                  </p>
+                  <div type="part">
+                     <head>¶ Nowe let vs ſee / who is the Aucthour of this godlie orde<g ref="char:EOLhyphen"/>naunce.</head>
+                     <p>This matter is very playne in the .ij. of Geneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s / and alſo in the xix. of Math. where as God is induced a<g ref="char:cmbAbbrStroke">̄</g>d brought in / as well to be the conſecratour and halo<g ref="char:EOLhyphen"/>wer of this connubiall a<g ref="char:cmbAbbrStroke">̄</g>d matrimony all eſtate as he is the maker alſo of makin<g ref="char:EOLhyphen"/>de.<note place="margin">Geneſis .ij.</note> Therfore let the maried eſteme them ſelves / <note place="margin">Math. xix.</note> to have the ſame Aucthour a<g ref="char:cmbAbbrStroke">̄</g>d he<g ref="char:EOLhyphen"/>ad
+<pb facs="tcp:173417:16"/>of their copulacyon (rightly / laufully and Godly Ioyned) that they haue to be the plaſmatour and maker both of bodye and ſoule. And let here the contempners of this holy inſtitutyon beware and take good adviſeme<g ref="char:cmbAbbrStroke">̄</g>t / that in deſpiſyng matry<g ref="char:EOLhyphen"/>mony / they ſcorne not alſo (to their great ſhame and reproche) the Auctour of ou<g ref="char:EOLhyphen"/>re ſoules and liues.</p>
+                  </div>
+                  <div type="part">
+                     <head>¶ Thyrdelye.</head>
+                     <head type="sub">¶ Howe honeſt and commendable it is.</head>
+                     <p>That is manyfeſt in the xiij. to the hebrues in theſe woordes.<note place="margin">Hebr. xiii.</note> Let wed<g ref="char:EOLhyphen"/>locke be had in price in all pointes / ande let the chamber be vndefiled. Theſe thin<g ref="char:EOLunhyphen"/>ges are honeſt which haue no ſpot of for<g ref="char:EOLhyphen"/>fett or ſynne / but are exerciſed with ver<g ref="char:EOLhyphen"/>tue. In wedlocke can ther not be ſynne / in as moche as God is the aucthour and conſecratour therof / without ye will ma<g ref="char:EOLunhyphen"/>ke God the Aucthour of ſynne / the which inſtytuted matrymonye. And alſo it hath vertue annexed vnto it.</p>
+                     <p>Fyrſt / of all laufull a<g ref="char:cmbAbbrStroke">̄</g>d co<g ref="char:cmbAbbrStroke">̄</g>ſtaunt promys. Secondly / of mutuall pure a<g ref="char:cmbAbbrStroke">̄</g>d godly lo<g ref="char:EOLhyphen"/>ue. Thyrdelye of the neceſſary comfort of the Man towarde the Woman / ande the Woma<g ref="char:cmbAbbrStroke">̄</g> towarde the Ma<g ref="char:cmbAbbrStroke">̄</g>. Fourthlye
+<pb facs="tcp:173417:17"/>For the preſeruation of maki<g ref="char:cmbAbbrStroke">̄</g>de / with the grace and bleſſing of God. Wherfore it is not without a cauſe ſpoken / of the Apoſt<g ref="char:EOLhyphen"/>le / let wedlocke / be had in pryce amonge all menete.</p>
+                  </div>
+                  <div type="part">
+                     <head>¶ Fyſthlye.</head>
+                     <head type="sub">¶ Howe pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e his it is.</head>
+                     <p>The proffye and vtylitie of this ſtate / is three diuers wates to be noted. Firſt / that through it / and by it doth the conſeruatio<g ref="char:cmbAbbrStroke">̄</g> and generation of mankinde co<g ref="char:cmbAbbrStroke">̄</g>ſiſt. Con<g ref="char:EOLhyphen"/>cubiners and aduiterers / doo alſo bringe forth Chylderen / but of this generation / let baſtardes and whoore mongers reioy<g ref="char:EOLhyphen"/>ce. Neyther was it the wyll of God / that mankynde ſhulde be begotte<g ref="char:cmbAbbrStroke">̄</g> / through in<g ref="char:EOLhyphen"/>ordinate whoredom a<g ref="char:cmbAbbrStroke">̄</g>d filthynes. The<g ref="char:EOLhyphen"/>nes alſo are comforted / both with ſtolen bread and clothes / wyll any man therfore graunt that bread and clothynge muſt be gotten wyth theft? Alſo in that God ſaid, Let vs make him an helper / that maye beare hym companye. This helper is e<g ref="char:EOLhyphen"/>quall in all poyntes as well in generatio<g ref="char:cmbAbbrStroke">̄</g> / education and bringing vp of Chylderen / as alſo in conuerſation and lyuing to ge<g ref="char:EOLhyphen"/>ther. But this ſtate is euel reported of for the manyfold cares a<g ref="char:cmbAbbrStroke">̄</g>d charges that ſprig ther of / among the wiſe of thys woorlde.
+<pb facs="tcp:173417:17"/>But for the mooſt / theſe thynges happen not for the default of Godly matrimony but rather of the evell condytyous of the parſones coniugate and maryed. But as for thoſe charges which come naturally / ſoche they are / that no ma<g ref="char:cmbAbbrStroke">̄</g> ca<g ref="char:cmbAbbrStroke">̄</g> be wythout them / except he purpoſe to live more like a beaſt / then a man. The thyrde commo<g ref="char:EOLhyphen"/>dity is (as the Apoſtle reſtifyeth) that for advoyding of fornicatyon / let every man have his wife / and every woman her huſ<g ref="char:EOLhyphen"/>band. Howe proftitable this is. The deſ<g ref="char:EOLunhyphen"/>tructyon of the generall worlde with the floude / the vnmercifull death of the So<g ref="char:EOLhyphen"/>domites / the plage of the wicked Ge<g ref="char:cmbAbbrStroke">̄</g>tiles / and the wonderfull filthy a<g ref="char:cmbAbbrStroke">̄</g>d wanton ly<g ref="char:EOLhyphen"/>fe of oure Balaamytes is to open.<note place="margin">Roma. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>¶ Fyfthlye.</head>
+                     <head type="sub">¶ Howe neceſſary it is.</head>
+                     <p>That doth not onelye the bleſſynge of our lorde / where he ſayeth encreaſe ande multyplye / but alſo experyence teach vs. Wherby the ſtre<g ref="char:cmbAbbrStroke">̄</g>gth a<g ref="char:cmbAbbrStroke">̄</g>d efficacie of Gods woord in oure bodies is declared / wher<g ref="char:EOLhyphen"/>fore Chryſte ſayd vnto hys viſciples. All men can not awaye with this ſayig. No<g ref="char:EOLhyphen"/>we then ſeynge that all theſe propertyes parteyne to wedlocke before recyted / and nowe alſo in theſe oure later daies / ſo ho<g ref="char:EOLhyphen"/>neſtlye
+<pb facs="tcp:173417:18"/>bewtifyed / wyth Chryſtes owne preſence / with what other ſpyrite are the Romiſh ſtocke ledde / then with the ſame that the Apoſtle ſpeaketh of?<note place="margin">
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Timoth. iiij.</note> The whych haue ſuppoſed / this ſtate (inſtituted of God holy and honeſt / proftitable and ne<g ref="char:EOLhyphen"/>ceſſary / honoured alſo with Chriſtes pre<g ref="char:EOLunhyphen"/>ſence) to be plaine fylthynes and haue de<g ref="char:EOLhyphen"/>nyed it to the myniſters of the Churche / as mooſt dyle and abhominable.</p>
+                  </div>
+                  <div type="interrogation">
+                     <head>Interrogations to be made by the parſon / vicar or curate of thy brydegome and bride.</head>
+                     <p>Howe ſaye you brother. N. are you content to take this woman prepared to be your helper of God / and to receyue her at his heade / as your neceſſary conforre / to prſſe the dayes of your pylgrymage in this life / and in hys frare and loue / to vſe her as the me<g ref="char:cmbAbbrStroke">̄</g>ber of Chriſte and fello<g ref="char:EOLhyphen"/>we he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re of eternall lyfe. And to loue her as your owne fleſh and bones / as longe as your lyues endure? Let the bridegom anſwere.</p>
+                     <p>Howe ſaye you Syſter. N. Can you fynd in your ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e to loue this ma<g ref="char:cmbAbbrStroke">̄</g> in the reuerend frare of God / and to be obenie<g ref="char:cmbAbbrStroke">̄</g>s vnto hym / as the congregation is vnto
+<pb facs="tcp:173417:18"/>Chriſte? And yf the lorde indue you with the bleſſing of yur bodies / that is / the fru<g ref="char:EOLhyphen"/>te of holie wedlocke / are ye co<g ref="char:cmbAbbrStroke">̄</g>tent to brige them vp in the true feare ande woorde of God / as long as your lyues endure? Let the bryde anſwere.</p>
+                  </div>
+                  <div type="interrogation">
+                     <head>¶ Interrogations of the bry<g ref="char:EOLhyphen"/>degome.</head>
+                     <p>¶ What thinke you the mooſt mete worke / to pleaſe God with / in this holpe ordinaunce.?</p>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ To truſt and ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ede ſtede ſeelye in hym.</p>
+                     <p>That is ſurelie well anſwered.<note place="margin">Iohan .vj.</note> For Chryſt ſayth. This is the worke of God / that ye beleue in hi<g ref="char:cmbAbbrStroke">̄</g> whome he hath ſent. And in this co<g ref="char:cmbAbbrStroke">̄</g>ſtau<g ref="char:cmbAbbrStroke">̄</g>t beleue. God ſhall not onelie / prepare you a neceſſary liuyng for your corruptible bodies / but alſo meate that ſhall e<g ref="char:cmbAbbrStroke">̄</g>dure to life euerlaſting / that is / his owne fleſh a<g ref="char:cmbAbbrStroke">̄</g>d bloud / that ye and your childeren through it maye liue for euer.</p>
+                  </div>
+                  <div type="interrogation">
+                     <head>¶ An other queſtion or In<g ref="char:EOLhyphen"/>terrogation.</head>
+                     <p>What is the next pointe neceſſary to be ſought for that our celeſtiall father maye accept your workes that are done i<g ref="char:cmbAbbrStroke">̄</g> faith / out of a pure conſcience?</p>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ To ſeke for the Kingdome of heauen.</p>
+                     <pb facs="tcp:173417:19"/>
+                     <p>That is well ſpoken and like a Chriſten man.<note place="margin">Math. vj.</note> For Chriſt ſayth. Seke fyrſt for the Kingdome of heauen / and the rightuouſ<g ref="char:EOLhyphen"/>nes of the ſame / and then hath he promy<g ref="char:EOLhyphen"/>ſed all thinges beſyde forth / to be caſt vn<g ref="char:EOLhyphen"/>to vs. And for that cauſe / in oure heauen<g ref="char:EOLhyphen"/>lie peticio<g ref="char:cmbAbbrStroke">̄</g>s / of our pater noſter / God hath ſett oute that principallie to be aſked / as the chefe thinge parteininge to a Chriſten ma<g ref="char:cmbAbbrStroke">̄</g> / before all other neceſſaries / as if that were obteyned / all were obteined. Ande that lacking all thinges wanted. As we ſaye. Oure father whych arte in hea<g ref="char:EOLhyphen"/>uen halowed be thy name. Thy Kyng<g ref="char:EOLhyphen"/>dome come.</p>
+                  </div>
+                  <div type="interrogation">
+                     <head>¶ An other Interrogation.</head>
+                     <p>¶ What thynke you the thirde pointe mete to be exercyſed in thys Godlie ſtate?</p>
+                     <p>
+                        <label>¶ Anſwere.</label> ¶ To worke in my vocation. To gett my breade in the ſweate of my face. Ande to caſt my care to God. And to bring vp my Children and houſhold in the feare of God.</p>
+                     <p>
+                        <label>¶ Paſtor.</label> Brother if thou wilt dilygentlie applie thy ſelfe / none otherwyſe to do / then thou haſt in the face of this aſſemblie anſ<g ref="char:EOLhyphen"/>wered / I will aſſure the by the worde of God. That the iuſt man was neuer caſt oute of GOD / that wrought after his
+<pb facs="tcp:173417:19"/>commaundeme<g ref="char:cmbAbbrStroke">̄</g>t / neither yet his ſede beg<g ref="char:EOLhyphen"/>gyng theyr breade And vppon this God<g ref="char:EOLhyphen"/>lye confeſſyon. I beſeche oure father in heauen / that your faith toward God ma<g ref="char:EOLhyphen"/>ye encreaſe / loue betwene you both maye procede oute of a pure harte. And that in the middeſt of a croked ande froward na<g ref="char:EOLhyphen"/>tion / ye maye ſhine in a pure conuerſacio<g ref="char:cmbAbbrStroke">̄</g> / bryngyng vp your Chylderen in the reue rente feare of God. That they maye be counted and accepted in the faythfull po<g ref="char:EOLhyphen"/>ſteritie of Abraham / Iſaac / ande Iacob. And that you maye ſee your Childerens Chylderen vnto the thirde a<g ref="char:cmbAbbrStroke">̄</g>d fourth ge<g ref="char:EOLhyphen"/>neration. That of Godlie Childeren / ye maye be made Ioyfull Parentes. That God oure celeſtiall father maye recei<g ref="char:EOLhyphen"/>ue our honeſt requeſt / I praye you ſaye all with me / the lordes prayer.</p>
+                  </div>
+                  <trailer>Finis.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="printers_device">
+                  <pb facs="tcp:173417:20"/>
+                  <p>
+                     <figure>
+                        <figDesc>Anthony Scoloker's device</figDesc>
+                        <q>
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> DEI</q>
+                        <head>Preue the ſpretes / whether they be of God. Ihon the iiij. i. Reg xiij. d. Mat vij.</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:173417:20"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
